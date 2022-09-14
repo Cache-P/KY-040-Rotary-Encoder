@@ -16,3 +16,8 @@ Especificaciones y características:
 + Ciclos por Resolución (CPR): 20
 + Dimensiones: 20 x 30 x 30 mm
 + Peso: 9 g
+
+¿Cómo funciona el KY-040 Encoder rotativo?
+El funcionamiento del codificador rotativo es muy sencillo, al girar el eje del Encoder incremental se generan dos señales cuadradas llamadas canal A (CLK) y B (DT), si el pin común es puesto a masa y el canal A y B con resistencias de Pull Up a VCC, las señales A y B generan pulsos que están desfasadas 90 grados y su secuencia, esto se conoce como código Grey de 2 bits.
+
+Estos codificadores constan de dos pines para el pulsador (funciona como un pulsador normal) y tres pines para el codificador. Los tres pines del codificador van conectados uno a masa y los otros dos a las respectivas entradas que designemos en la placa Arduino. Estas dos señales que salen del encoder nos dan un total de 4 combinaciones. 00, 01, 10, y 11. Esto se conoce como 2 bits de código Grey.
