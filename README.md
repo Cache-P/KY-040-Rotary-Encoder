@@ -8,7 +8,7 @@ El Módulo KY-040 es un Encoder rotativo es un codificador incremental con dos s
 ¿Para qué sirve el KY-040?
 Este Encoder rotatorio es ampliamente utilizado en el control de motores paso a paso, servomotores, control de potenciómetros digitales, controles de máquinas industriales tales como los husillos de tornos y fresadoras CNC, brazos robóticos, controles de instrumentos electrónicos (diales) y hasta es posible verlos todavía en los viejos ratones de computadoras o en algunos TrackBall.
 
-<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/8zWWYVb7/s3.jpg" alt="s3"/></a><br/><br/>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/4dGDrtHr/s3.jpg' border='0' alt='s3'/></a>
 
 
 Especificaciones y características:
